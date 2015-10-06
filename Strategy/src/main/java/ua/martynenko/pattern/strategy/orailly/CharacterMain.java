@@ -10,6 +10,4 @@ public class CharacterMain {
         king.setWeaponBehavior(new AxeBehavior());
         king.fight();
     }
-
-
 }
